@@ -1,4 +1,4 @@
-# 🧱 LEGO Value Tracker — Tidbyt App
+# 🧱 LEGO Value Tracker: Tidbyt App
 
 A **Tidbyt** app that cycles through the **Top 5 retired LEGO sets** by ROI % on your 64×32 LED display.
 
